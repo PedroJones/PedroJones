@@ -19,4 +19,5 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroJones&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
- ## Um pouco sobre mim:
+ ## As tecnologias nas quais eu estou envolvido:
+ 
