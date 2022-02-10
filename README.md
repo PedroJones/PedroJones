@@ -8,16 +8,15 @@
 ## Aqui você encontrará o código fonte dos meus projetos: 
 
 
-<a href="https://github.com/Higlik/Projeto_Integrador" target="_blank" align="center"><img height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> - Projeto Integrador (DelasArtes)</a>
+-💻Link do Projeto: https://delasartes.vercel.app/home
 
+-📚Link do Repositório: <a href="https://github.com/Higlik/Projeto_Integrador" target="_blank" align="center"><img height="20"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> Delas Artes (projeto integrador)</a><br/>
 ## Minha atividade no Git-hub:
 
 <div align="center">
   <a href="https://github.com/PedroJones">
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=PedroJones&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroJones&layout=compact&langs_count=7&theme=tokyonight"/>
-
 </div>
-  
-
-
+ 
+ ## Um pouco sobre mim:
